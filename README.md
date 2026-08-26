@@ -31,10 +31,6 @@
 
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-
 <img src="https://img.shields.io/github/stars/yuvanvishnupandi/margarakshak?style=for-the-badge" alt="Stars"/>
 
 <img src="https://img.shields.io/github/forks/yuvanvishnupandi/margarakshak?style=for-the-badge" alt="Forks"/>
